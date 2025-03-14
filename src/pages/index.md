@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Leslee Francis
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,14 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
-  alt: Hero Image for home page
+  src: /img/nature_hero_image.png
+  alt: Nature
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: "Based in Colorado, Leslee Francis is a community-oriented
+  individual who has dedicated a significant portion of her time to advancing
+  community interactions and connections. In 2022, Leslee Francis became the
+  outreach director with the Rock and Roll Academy in Aspen. "
 published: true
 profileButton:
   link: /profile
@@ -32,4 +34,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Based in Colorado, Leslee Francis is a community-oriented individual who has dedicated a significant portion of her time to advancing community interactions and connections. In 2022, Leslee Francis became the outreach director with the [Rock and Roll Academy in Aspen](https://www.rockandrollacademyaspen.org/meet-the-team). As outreach director, she oversees raising money for the nonprofit. To achieve this, she writes grant requests to a wide range of businesses, municipalities, and private citizens. She also organizes fundraisers that involve live music.
