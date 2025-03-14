@@ -3,9 +3,8 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: In addition to her outreach work, Leslee Francis’ professional
+  experience spans decades in education, outdoor recreation, and guiding. S
 published: true
 schemaType: WebPage
 header: Blog
